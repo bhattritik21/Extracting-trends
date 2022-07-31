@@ -2,7 +2,7 @@
 EXTRACT TRENDS FROM SOCIAL MEDIA
 
 ## INTRODUCTION
-This system is developed by Ritik Bhatt,D Tushar Sahu and Ashu Sharma as part of Flipkart Grid 2022. The aim of this system is to help fashion retailers in identifying trend-setting and best selling products on Flipkart webiste.
+This system is developed by Ritik Bhatt, D Tushar Sahu and Ashu Sharma as part of Flipkart Grid 2022. The aim of this system is to help fashion retailers in identifying trend-setting and best selling products on Flipkart website.
 
 ## DESIGN
 This system is broken down into 3 important parts:
@@ -40,9 +40,6 @@ The second model is used to find the trending products. This is done by assignin
 ### MAPPING
 The trending images from database along with the extracted keywords with Flipkart category, sub category, vertical and product attribute, search page links are  mapped to flipkart products which are displayed as output.
 
-## DATASETS
-Scraped Data(till today): https://drive.google.com/drive/u/1/folders/134GDKE7i0MdBYcIyab3mKH6LdxFl-ci0<br><br>
-Processed Scraped Data: https://drive.google.com/drive/u/1/folders/134GDKE7i0MdBYcIyab3mKH6LdxFl-ci0
 
 ## MODEL FILES
 Model for predicting trendiness: https://drive.google.com/file/d/1092MDfexBLnap2q9ijxvEG-GmBfw9my2/view?usp=sharing<br>
